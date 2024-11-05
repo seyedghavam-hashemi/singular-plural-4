@@ -1,0 +1,240 @@
+@import url('https://v1.fontapi.ir/css/Vazir');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Edu+AU+VIC+WA+NT+Guides:wght@400..700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Guides:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arima:wght@100..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap');
+
+
+#total-container{
+  background-image: url('../img/bg-1-1.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+
+
+
+.titre{
+    min-height: 100%;
+    height: 32vh;
+    margin-bottom: 0vh;
+    text-align: center;
+
+}
+
+.section{
+    text-align: center;
+    padding: 5px 5px;
+}
+/*question-1*/
+
+.bg-qu-1{
+    min-height: 100%;
+    height: 90vh;
+    margin-bottom: 0vh;
+    text-align: center;
+
+}
+
+.pt-1{
+  text-transform: uppercase;
+  line-height: 7vh;
+  font-size: 4vh;
+  color:#fff;
+  font-weight: 700;
+}
+
+
+
+.pe-1{  
+    font-size: 4vh;
+   /* text-transform:uppercase; */
+    color:#fff;
+    line-height: 7vh;
+    font-weight: 1000;
+  }
+
+
+   
+/*question-2*/
+.bg-qu-2{
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%;
+    height: 70vh;
+    margin-bottom: 0vh;
+    text-align: center;
+
+}
+
+.pe-2{  
+    font-size: 4vh;
+    font-weight: 1000;
+    color:#fff;
+    line-height: 7vh;
+
+    /*text-transform:uppercase; */
+  
+  }
+
+
+
+
+
+/*question-3*/
+.bg-qu-3{
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%;
+    height: 70vh;
+    margin-bottom: 0vh;
+    text-align: center;
+
+}
+
+.pe-3{  
+    color:#fff;
+    font-size: 4vh;
+    font-weight: 1000;
+    line-height: 7vh;
+
+    /*text-transform:uppercase; */
+  
+  }
+
+/*question-4*/
+.bg-qu-4{
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%;
+    height: 70vh;
+    margin-bottom: 0vh;
+    text-align: center;
+
+}
+
+.pe-4{  
+    color:#fff;
+    font-size: 4vh;
+    font-weight: 1000;
+    line-height: 7vh;
+
+    /*text-transform:uppercase; */
+  
+  }
+/*question-5*/
+.bg-qu-5{
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%;
+    height: 70vh;
+    margin-bottom: 0vh;
+    text-align: center;
+
+}
+
+.pe-5{  
+    color:#fff;
+    font-size: 4vh;
+    font-weight: 1000;
+    line-height: 7vh;
+
+    /*text-transform:uppercase; */
+  
+  }
+
+/*question-6*/
+.bg-qu-6{
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%;
+    height: 70vh;
+    margin-bottom: 0vh;
+    text-align: center;
+
+}
+
+.pe-6{  
+    color:#fff;
+    font-size: 4vh;
+    font-weight: 1000;
+    line-height: 7vh;
+
+    /*text-transform:uppercase; */
+  
+  }
+
+/*question-7*/
+.bg-qu-7{
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%;
+    height: 70vh;
+    margin-bottom: 0vh;
+    text-align: center;
+
+}
+
+.pe-7{  
+    color:#fff;
+    font-size: 4vh;
+    font-weight: 1000;
+    /*text-transform:uppercase; */
+    line-height: 7vh;
+
+  
+  }
+/*question-8*/
+.bg-qu-8{
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%;
+    height: 70vh;
+    margin-bottom: 0vh;
+    text-align: center;
+
+}
+
+.pe-8{  
+    color:#fff;
+    font-size: 4vh;
+    font-weight: 1000;
+    line-height: 7vh;
+
+    /*text-transform:uppercase; */
+  
+  }
+
+.answer-ul {
+    width:100%;
+    align-items:center;
+    
+
+}
+.answer-ul .answer-li{
+    text-decoration: none;
+    list-style-type: none;
+
+}
+
+.ckeckBox-li{
+    margin-right: 5px;
+}
+
+.gate-size{
+    height: 300px;
+    width:220px
+}
+
+.gateOpen{
+
+}
+/*
+@media(max-width:568px){
+    
+  }
+  
+*/

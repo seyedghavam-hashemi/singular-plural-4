@@ -1,0 +1,136 @@
+body, html{
+ height:100%;
+ 
+  margin:0;
+ /* font-size:16px;
+  font-family:"Lato", sans-serif;
+  font-weight:400;
+  line-height:1.8em;
+  color:#666;*/
+}
+
+.pimg1, .pimg2, .pimg3, .pimg4, .pimg5, .pimg6{
+  position:relative;
+  /*opacity:0.70;*/
+  background-position:center;
+  background-size:cover;
+  background-repeat:no-repeat;
+
+  /*
+    fixed = parallax
+    scroll = normal
+  */
+  background-attachment:fixed;
+}
+
+
+
+
+.section{
+  text-align:center;
+  padding:50px 80px;
+}
+
+
+#insta-22{
+  height: 2em;
+  width: 2em;
+  position: relative;
+  top:0.7em;
+  margin-right: 0;
+}
+#blue_moblie{
+  height: 2em;
+  width: 1.45em;
+  position: relative;
+  top:0.7em;
+  margin-right: 0;
+}
+#email-logo{
+  height: 2.5em;
+  width: 1.45em;
+  position: relative;
+  top:0.7em;
+  margin-right: 0;
+}
+
+#phone-logo{
+  height: 2em;
+  width: 3em;
+  position: relative;
+  top:0.5em;
+}
+
+.ptext{
+  position:absolute;
+  top:50%;
+  width:100%;
+  text-align:center;
+  color:#000;
+  font-size:27px;
+  letter-spacing:8px;
+  text-transform:uppercase;
+}
+
+.ptext .border{
+  background-color:#111;
+  color:#fff;
+  padding:20px;
+}
+
+.ptext .border.trans{
+  background-color:transparent;
+}
+
+
+#insta-icon{
+  width: 214px;
+  height: 93px;
+}
+#instagram_address{
+  height: 2em;
+  width: 2em;
+  position: relative;
+  top:0.7em;
+  margin-right: 0;
+}
+#email-address{
+  height: 2em;
+  width: 2em;
+  position: relative;
+  top:0.7em;
+  margin-right: 0;
+}
+
+#address{
+  height: 2.5em;
+  width: 2.5em;
+  position: relative;
+  top:0.7em;
+  margin-right: 0;
+}
+#mobile-address{  
+  height: 2em;
+  width: 1.5em;
+  position: relative;
+  top:0.7em;
+  margin-right: 0;}
+#tel-address{ 
+   height: 2em;
+  width: 2.5em;
+  position: relative;
+  top:0.7em;
+  margin-right: 0;}
+
+
+
+
+@media(max-width:568px){
+  .pimg1, .pimg2, .pimg3, .pimg4, .pimg5, .pimg6{
+    background-attachment:scroll;
+  }
+
+
+
+
+}
